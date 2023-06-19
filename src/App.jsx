@@ -3,7 +3,7 @@ import {BrowserRouter , Route ,Routes} from 'react-router-dom'
 import HomePage from './pages/HomePage'
 import MovieById from './pages/MovieById'
 import FavoriteMovies from './pages/FavoriteMovies'
-import SearchMovies from './pages/searchMovies'
+import SearchMovies from './pages/SearchMovies'
 
 const App = () => (
 
